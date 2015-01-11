@@ -164,3 +164,6 @@ includeFile("tangible/furniture/all/frn_all_toolchest_med_s01.lua")
 includeFile("tangible/furniture/all/frn_all_tree_potted_s1.lua")
 includeFile("tangible/furniture/all/frn_all_tree_potted_s2.lua")
 includeFile("tangible/furniture/all/frn_bench_generic.lua")
+
+--Tarkin Decorations Update
+includeFile("tangible/furniture/all/frn_all_rug_bantha_skin.lua")

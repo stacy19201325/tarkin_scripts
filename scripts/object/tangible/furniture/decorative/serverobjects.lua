@@ -76,3 +76,7 @@ includeFile("tangible/furniture/decorative/stuffed_fish.lua")
 includeFile("tangible/furniture/decorative/tanning_hide_s01.lua")
 includeFile("tangible/furniture/decorative/tanning_hide_s02.lua")
 includeFile("tangible/furniture/decorative/tatooine_tapestry.lua")
+
+--Tarkin Decorations Update
+includeFile("tangible/furniture/decorative/hologram_base_emperor.lua")
+includeFile("tangible/furniture/decorative/hologram_xwing.lua")

@@ -67,3 +67,7 @@ includeFile("tangible/veteran_reward/frn_vet_tie_fighter_toy.lua")
 includeFile("tangible/veteran_reward/frn_vet_x_wing_toy.lua")
 includeFile("tangible/veteran_reward/harvester.lua")
 includeFile("tangible/veteran_reward/resource.lua")
+
+--Tarkin Decorations Update
+includeFile("tangible/veteran_reward/frn_vet_rug_imperial.lua")
+includeFile("tangible/veteran_reward/frn_vet_rug_rebel.lua")

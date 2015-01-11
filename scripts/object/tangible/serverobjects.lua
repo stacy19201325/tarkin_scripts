@@ -97,6 +97,7 @@ includeFile("tangible/powerup/serverobjects.lua")
 includeFile("tangible/quest/serverobjects.lua")
 includeFile("tangible/recycler/serverobjects.lua")
 includeFile("tangible/region/serverobjects.lua")
+includeFile("tangible/saga_system/serverobjects.lua")
 includeFile("tangible/scout/serverobjects.lua")
 includeFile("tangible/ship/serverobjects.lua")
 includeFile("tangible/shipcontrol/serverobjects.lua")
@@ -119,5 +120,9 @@ includeFile("tangible/vendor/serverobjects.lua")
 includeFile("tangible/veteran_reward/serverobjects.lua")
 includeFile("tangible/wearables/serverobjects.lua")
 includeFile("tangible/weather_object/serverobjects.lua")
+
+--Tarkin Decorations Update
+includeFile("tangible/holiday/serverobjects.lua")
+includeFile("tangible/tcg/serverobjects.lua")
 
 -- Server Objects

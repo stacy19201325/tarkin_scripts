@@ -7061,3 +7061,12 @@ object_tangible_furniture_all_shared_frn_bench_generic = SharedTangibleObjectTem
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_bench_generic, "object/tangible/furniture/all/shared_frn_bench_generic.iff")
+
+--Tarkin Decorations Update
+
+--Bantha Skin Rug
+object_tangible_furniture_all_shared_frn_all_rug_bantha_skin = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/all/shared_frn_all_rug_bantha_skin.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_all_rug_bantha_skin, "object/tangible/furniture/all/shared_frn_all_rug_bantha_skin.iff")
