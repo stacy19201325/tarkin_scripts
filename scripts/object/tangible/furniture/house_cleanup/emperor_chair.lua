@@ -41,12 +41,8 @@
 --this exception also makes it possible to release a modified version 
 
 
+object_tangible_furniture_house_cleanup_emperor_chair = object_tangible_furniture_house_cleanup_shared_emperor_chair:new {
 
---Children folder includes
+}
 
--- Server Objects
-includeFile("tangible/tcg/series4/decorative_stuffed_tauntaun.lua")
-includeFile("tangible/tcg/series4/decorative_stuffed_wampa.lua")
-includeFile("tangible/tcg/series4/decorative_kashyyyk_travel_advertisement.lua")
-includeFile("tangible/tcg/series4/decorative_child_bed_01.lua")
-includeFile("tangible/tcg/series4/decorative_tatooine_travel_advertisement.lua")
+ObjectTemplates:addTemplate(object_tangible_furniture_house_cleanup_emperor_chair, "object/tangible/furniture/house_cleanup/emperor_chair.iff")

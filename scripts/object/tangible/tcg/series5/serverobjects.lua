@@ -45,8 +45,11 @@
 --Children folder includes
 
 -- Server Objects
-includeFile("tangible/tcg/series4/decorative_stuffed_tauntaun.lua")
-includeFile("tangible/tcg/series4/decorative_stuffed_wampa.lua")
-includeFile("tangible/tcg/series4/decorative_kashyyyk_travel_advertisement.lua")
-includeFile("tangible/tcg/series4/decorative_child_bed_01.lua")
-includeFile("tangible/tcg/series4/decorative_tatooine_travel_advertisement.lua")
+--Tarkin Decorations Update
+includeFile("tangible/tcg/series5/decorative_galactic_hunters_poster.lua")
+includeFile("tangible/tcg/series5/decorative_jedi_forms_painting.lua")
+includeFile("tangible/tcg/series5/decorative_lcd_screen.lua")
+includeFile("tangible/tcg/series5/decorative_theater_poster.lua")
+includeFile("tangible/tcg/series5/furniture_tie_fighter_chair.lua")
+includeFile("tangible/tcg/series5/food_station_jabbas_roasting_spit.lua")
+

@@ -1886,3 +1886,150 @@ object_tangible_furniture_decorative_shared_hologram_xwing = SharedTangibleObjec
 
 ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_hologram_xwing, "object/tangible/furniture/decorative/shared_hologram_xwing.iff")
 
+--Wookiee Shield
+object_tangible_furniture_decorative_shared_event_wookiee_shield = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/decorative/shared_event_wookiee_shield.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_event_wookiee_shield, "object/tangible/furniture/decorative/shared_event_wookiee_shield.iff")
+
+--Hanging Life Day Orb
+object_tangible_furniture_decorative_shared_event_lifeday07_orb = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/decorative/shared_event_lifeday07_orb.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_event_lifeday07_orb, "object/tangible/furniture/decorative/shared_event_lifeday07_orb.iff")
+
+--Emperor Painting
+object_tangible_furniture_decorative_shared_vet_reward_emperor_painting = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/decorative/shared_vet_reward_emperor_painting.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_vet_reward_emperor_painting, "object/tangible/furniture/decorative/shared_vet_reward_emperor_painting.iff")
+
+--Rebel Painting
+object_tangible_furniture_decorative_shared_vet_reward_rebel_painting = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/decorative/shared_vet_reward_rebel_painting.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_vet_reward_rebel_painting, "object/tangible/furniture/decorative/shared_vet_reward_rebel_painting.iff")
+
+--Heroic Axkva Min Painting
+object_tangible_furniture_decorative_shared_heroic_axkva_min_painting = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/decorative/shared_heroic_axkva_min_painting.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_heroic_axkva_min_painting, "object/tangible/furniture/decorative/shared_heroic_axkva_min.iff")
+
+--Heroic Tusken Painting
+object_tangible_furniture_decorative_shared_heroic_tusken_painting = SharedTangibleObjectTemplate:new {
+	clientTemplateFileName = "object/tangible/furniture/decorative/shared_heroic_tusken_painting.iff"
+}
+
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_heroic_tusken_painting, "object/tangible/furniture/decorative/shared_heroic_tusken_painting.iff")
+
+--30th Anniversary Painting
+object_tangible_furniture_decorative_shared_30th_anniversary_painting_01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_30th_anniversary_painting_01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_30th_anniversary_painting_01, "object/tangible/furniture/decorative/shared_30th_anniversary_painting_01.iff")
+
+--2009 Imperial Community Painting
+object_tangible_furniture_decorative_shared_community_painting_2009_imp = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_community_painting_2009_imp.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_community_painting_2009_imp, "object/tangible/furniture/decorative/shared_community_painting_2009_imp.iff")
+
+--2009 Rebel Community Painting
+object_tangible_furniture_decorative_shared_community_painting_2009_reb = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_community_painting_2009_reb.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_community_painting_2009_reb, "object/tangible/furniture/decorative/shared_community_painting_2009_reb.iff")
+
+--2010 GCW Photo Contest Painting 01
+object_tangible_furniture_decorative_shared_community_tcg_gcw_photo_contest_painting_2010_01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_community_tcg_gcw_photo_contest_painting_2010_01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_community_tcg_gcw_photo_contest_painting_2010_01, "object/tangible/furniture/decorative/shared_community_tcg_gcw_photo_contest_painting_2010_01.iff")
+
+--2010 GCW Photo Contest Painting 2
+object_tangible_furniture_decorative_shared_community_tcg_gcw_photo_contest_painting_2010_02 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_community_tcg_gcw_photo_contest_painting_2010_02.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_community_tcg_gcw_photo_contest_painting_2010_02, "object/tangible/furniture/decorative/shared_community_tcg_gcw_photo_contest_painting_2010_02.iff")
+
+--Lifeday 2005 Painting 1
+object_tangible_furniture_decorative_shared_event_lifeday05_painting_01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_event_lifeday05_painting_01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_event_lifeday05_painting_01, "object/tangible/furniture/decorative/shared_event_lifeday05_painting_01.iff")
+
+--Lifeday 2005 Painting 2
+object_tangible_furniture_decorative_shared_event_lifeday05_painting_02 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_event_lifeday05_painting_02.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_event_lifeday05_painting_02, "object/tangible/furniture/decorative/shared_event_lifeday05_painting_02.iff")
+
+--Lifeday 2005 Painting 3
+object_tangible_furniture_decorative_shared_event_lifeday05_painting_03 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_event_lifeday05_painting_03.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_event_lifeday05_painting_03, "object/tangible/furniture/decorative/shared_event_lifeday05_painting_03.iff")
+
+--Lifeday 2007 Painting 1
+object_tangible_furniture_decorative_shared_event_lifeday07_painting_01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_event_lifeday07_painting_01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_event_lifeday07_painting_01, "object/tangible/furniture/decorative/shared_event_lifeday07_painting_01.iff")
+
+--Heroic Hoth Painting
+object_tangible_furniture_decorative_shared_heroic_hoth_painting = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_heroic_hoth_painting.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_heroic_hoth_painting, "object/tangible/furniture/decorative/shared_heroic_hoth_painting.iff")
+
+--2008 Imperial Community Painting
+object_tangible_furniture_decorative_shared_imperial_community_painting_2008 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_imperial_community_painting_2008.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_imperial_community_painting_2008, "object/tangible/furniture/decorative/shared_imperial_community_painting_2008.iff")
+
+--Pub 29 Corellia Painting
+object_tangible_furniture_decorative_shared_pub29_corellia_painting = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_pub29_corellia_painting.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_pub29_corellia_painting, "object/tangible/furniture/decorative/shared_pub29_corellia_painting.iff")
+
+--Pub 29 Mustafar Painting
+object_tangible_furniture_decorative_shared_pub29_mustafar_painting = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_pub29_mustafar_painting.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_pub29_mustafar_painting, "object/tangible/furniture/decorative/shared_pub29_mustafar_painting.iff")
+
+--Pub 29 Ryatt Painting
+object_tangible_furniture_decorative_shared_pub29_ryatt_painting = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_pub29_ryatt_painting.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_pub29_ryatt_painting, "object/tangible/furniture/decorative/shared_pub29_ryatt_painting.iff")
+
+--2008 Rebel Community Painting
+object_tangible_furniture_decorative_shared_rebel_community_painting_2008 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/decorative/shared_rebel_community_painting_2008.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_decorative_shared_rebel_community_painting_2008, "object/tangible/furniture/decorative/shared_rebel_community_painting_2008.iff")
+

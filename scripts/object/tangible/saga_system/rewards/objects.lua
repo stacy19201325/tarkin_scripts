@@ -47,3 +47,59 @@ object_tangible_saga_system_rewards_shared_jabba_fancyrug = SharedTangibleObject
 
 ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_jabba_fancyrug, "object/tangible/saga_system/rewards/shared_jabba_fancyrug.iff")
 
+--Fireplace
+object_tangible_saga_system_rewards_shared_frn_fireplace = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_frn_fireplace.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_frn_fireplace, "object/tangible/saga_system/rewards/shared_frn_fireplace.iff")
+
+--Jabba Drapes
+object_tangible_saga_system_rewards_shared_jabba_drapes = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_jabba_drapes.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_jabba_drapes, "object/tangible/saga_system/rewards/shared_jabba_drapes.iff")
+
+--Jabba Gargoyle
+object_tangible_saga_system_rewards_shared_jabba_gargoyle = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_jabba_gargoyle.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_jabba_gargoyle, "object/tangible/saga_system/rewards/shared_jabba_gargoyle.iff")
+
+--Jabba Generator
+object_tangible_saga_system_rewards_shared_jabba_generator = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_jabba_generator.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_jabba_generator, "object/tangible/saga_system/rewards/shared_jabba_generator.iff")
+
+--Jabba Table
+object_tangible_saga_system_rewards_shared_jabba_table = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_jabba_table.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_jabba_table, "object/tangible/saga_system/rewards/shared_jabba_table.iff")
+
+--Jabba Tassels
+object_tangible_saga_system_rewards_shared_jabba_tassels = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_jabba_tassels.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_jabba_tassels, "object/tangible/saga_system/rewards/shared_jabba_tassels.iff")
+
+--Monitor Screen
+object_tangible_saga_system_rewards_shared_pgc_monitorscreen = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_pgc_monitorscreen.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_pgc_monitorscreen, "object/tangible/saga_system/rewards/shared_pgc_monitorscreen.iff")
+
+--Small Monitor Screen
+object_tangible_saga_system_rewards_shared_pgc_monitorscreen_small = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/saga_system/rewards/shared_pgc_monitorscreen_small.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_saga_system_rewards_shared_pgc_monitorscreen_small, "object/tangible/saga_system/rewards/shared_pgc_monitorscreen_small.iff")
+

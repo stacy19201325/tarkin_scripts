@@ -64,3 +64,6 @@ includeFile("tangible/furniture/tatooine/frn_tatt_chair_cantina_seat_3.lua")
 includeFile("tangible/furniture/tatooine/frn_tatt_table_cantina_table_1.lua")
 includeFile("tangible/furniture/tatooine/frn_tatt_table_cantina_table_2.lua")
 includeFile("tangible/furniture/tatooine/frn_tatt_table_cantina_table_3.lua")
+
+--Tarkin Decorations Update
+includeFile("tangible/furniture/tatooine/uber_tankfarm_s01.lua")

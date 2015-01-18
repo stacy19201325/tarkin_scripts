@@ -41,12 +41,17 @@
 --this exception also makes it possible to release a modified version 
 
 
+object_tangible_furniture_decorative_heroic_tusken_painting = object_tangible_furniture_decorative_shared_heroic_tusken_painting:new {
 
---Children folder includes
+	numberExperimentalProperties = {1, 1, 1, 2},
+	experimentalProperties = {"XX", "XX", "XX", "DR", "OQ"},
+	experimentalWeights = {1, 1, 1, 1, 1},
+	experimentalGroupTitles = {"null", "null", "null", "exp_quality"},
+	experimentalSubGroupTitles = {"null", "null", "hitpoints", "quality"},
+	experimentalMin = {0, 0, 1000, 1},
+	experimentalMax = {0, 0, 1000, 100},
+	experimentalPrecision = {0, 0, 0, 0},
+	experimentalCombineType = {0, 0, 4, 1},
+}
 
--- Server Objects
-includeFile("tangible/tcg/series4/decorative_stuffed_tauntaun.lua")
-includeFile("tangible/tcg/series4/decorative_stuffed_wampa.lua")
-includeFile("tangible/tcg/series4/decorative_kashyyyk_travel_advertisement.lua")
-includeFile("tangible/tcg/series4/decorative_child_bed_01.lua")
-includeFile("tangible/tcg/series4/decorative_tatooine_travel_advertisement.lua")
+ObjectTemplates:addTemplate(object_tangible_furniture_decorative_heroic_tusken_painting, "object/tangible/furniture/decorative/heroic_tusken_painting.iff")

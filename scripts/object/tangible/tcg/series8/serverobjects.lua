@@ -45,8 +45,4 @@
 --Children folder includes
 
 -- Server Objects
-includeFile("tangible/tcg/series4/decorative_stuffed_tauntaun.lua")
-includeFile("tangible/tcg/series4/decorative_stuffed_wampa.lua")
-includeFile("tangible/tcg/series4/decorative_kashyyyk_travel_advertisement.lua")
-includeFile("tangible/tcg/series4/decorative_child_bed_01.lua")
-includeFile("tangible/tcg/series4/decorative_tatooine_travel_advertisement.lua")
+

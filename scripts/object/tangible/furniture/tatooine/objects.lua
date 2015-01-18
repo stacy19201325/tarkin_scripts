@@ -1161,3 +1161,12 @@ object_tangible_furniture_tatooine_shared_frn_tatt_table_cantina_table_3 = Share
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_furniture_tatooine_shared_frn_tatt_table_cantina_table_3, "object/tangible/furniture/tatooine/shared_frn_tatt_table_cantina_table_3.iff")
+
+--Tarkin Decorations Update
+
+--Tankfarm
+object_tangible_furniture_tatooine_shared_uber_tankfarm_s01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/tatooine/shared_uber_tankfarm_s01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_tatooine_shared_uber_tankfarm_s01, "object/tangible/furniture/tatooine/shared_uber_tankfarm_s01.iff")

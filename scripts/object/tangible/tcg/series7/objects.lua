@@ -42,37 +42,23 @@
 
 --Tarkin Decorations Update
 
---Decorative Stuffed Tauntaun
-object_tangible_tcg_series4_shared_decorative_stuffed_tauntaun = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_stuffed_tauntaun.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_stuffed_tauntaun, "object/tangible/tcg/series4/shared_decorative_stuffed_tauntaun.iff")
-
---Decorative Stuffed Wampa
-object_tangible_tcg_series4_shared_decorative_stuffed_wampa = SharedTangibleObjectTemplate:new {
-	clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_stuffed_wampa.iff"
-}
-
-ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_stuffed_wampa, "object/tangible/tcg/series4/shared_decorative_stuffed_wampa.iff")
-
---Kashyyyk Travel Advertisement
-object_tangible_tcg_series4_shared_decorative_kashyyyk_travel_advertisement = SharedTangibleObjectTemplate:new {
-clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_kashyyyk_travel_advertisement.iff"
+--Decorative AT-ST Chair
+object_tangible_tcg_series7_shared_decorative_atst_chair = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series7/shared_decorative_atst_chair.iff"
 
 }
-ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_kashyyyk_travel_advertisement, "object/tangible/tcg/series4/shared_decorative_kashyyyk_travel_advertisement.iff")
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series7_shared_decorative_atst_chair, "object/tangible/tcg/series7/shared_decorative_atst_chair.iff")
 
---Decorative Child Bed
-object_tangible_tcg_series4_shared_decorative_child_bed_01 = SharedTangibleObjectTemplate:new {
-clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_child_bed_01.iff"
-
-}
-ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_child_bed_01, "object/tangible/tcg/series4/shared_decorative_child_bed_01.iff")
-
---Tatooine Travel Advertisement
-object_tangible_tcg_series4_shared_decorative_tatooine_travel_advertisement = SharedTangibleObjectTemplate:new {
-clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_tatooine_travel_advertisement.iff"
+--Commando Painting
+object_tangible_tcg_series7_shared_painting_commando = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series7/shared_painting_commando.iff"
 
 }
-ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_tatooine_travel_advertisement, "object/tangible/tcg/series4/shared_decorative_tatooine_travel_advertisement.iff")
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series7_shared_painting_commando, "object/tangible/tcg/series7/shared_painting_commando.iff")
+
+--Lando Blue Milk Poster
+object_tangible_tcg_series7_shared_painting_lando_poster = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series7/shared_painting_lando_poster.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series7_shared_painting_lando_poster, "object/tangible/tcg/series7/shared_painting_lando_poster.iff")
