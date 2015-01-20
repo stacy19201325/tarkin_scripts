@@ -41,23 +41,18 @@
 --this exception also makes it possible to release a modified version 
 
 
+object_tangible_tcg_series3_decorative_empal_surecon_center_medical_table = object_tangible_tcg_series3_shared_decorative_empal_surecon_center_medical_table:new {
 
---Children folder includes
 
--- Server Objects
-includeFile("tangible/loot/mustafar/stuffed_dewback_doll.lua")
-includeFile("tangible/loot/mustafar/stuff_rancor_doll.lua")
-includeFile("tangible/loot/mustafar/lava_geode.lua")
-includeFile("tangible/loot/mustafar/must_chair_01.lua")
-includeFile("tangible/loot/mustafar/must_display_case.lua")
-includeFile("tangible/loot/mustafar/must_painting_01.lua")
-includeFile("tangible/loot/mustafar/must_painting_02.lua")
-includeFile("tangible/loot/mustafar/must_painting_03.lua")
-includeFile("tangible/loot/mustafar/must_painting_04.lua")
-includeFile("tangible/loot/mustafar/must_table_large_01.lua")
-includeFile("tangible/loot/mustafar/must_table_small_01.lua")
-includeFile("tangible/loot/mustafar/mustafar_map.lua")
-includeFile("tangible/loot/mustafar/trophey_lava_beetle.lua")
-includeFile("tangible/loot/mustafar/trophey_lava_flea.lua")
-includeFile("tangible/loot/mustafar/trophey_tulrus_spine.lua")
-includeFile("tangible/loot/mustafar/trophey_xandank.lua")
+	numberExperimentalProperties = {1, 1, 1, 2},
+	experimentalProperties = {"XX", "XX", "XX", "DR", "OQ"},
+	experimentalWeights = {1, 1, 1, 1, 1},
+	experimentalGroupTitles = {"null", "null", "null", "exp_quality"},
+	experimentalSubGroupTitles = {"null", "null", "hitpoints", "quality"},
+	experimentalMin = {0, 0, 1000, 1},
+	experimentalMax = {0, 0, 1000, 100},
+	experimentalPrecision = {0, 0, 0, 0},
+	experimentalCombineType = {0, 0, 4, 1},
+}
+
+ObjectTemplates:addTemplate(object_tangible_tcg_series3_decorative_empal_surecon_center_medical_table, "object/tangible/tcg/series3/decorative_empal_surecon_center_medical_table.iff")

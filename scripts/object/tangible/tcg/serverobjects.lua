@@ -43,6 +43,8 @@
 
 
 --Children folder includes
+includeFile("tangible/tcg/series1/serverobjects.lua")
+includeFile("tangible/tcg/series3/serverobjects.lua")
 includeFile("tangible/tcg/series4/serverobjects.lua")
 includeFile("tangible/tcg/series5/serverobjects.lua")
 includeFile("tangible/tcg/series6/serverobjects.lua")
