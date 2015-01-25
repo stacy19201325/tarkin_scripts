@@ -84,3 +84,16 @@ clientTemplateFileName = "object/tangible/tcg/series5/shared_food_station_jabbas
 }
 ObjectTemplates:addClientTemplate(object_tangible_tcg_series5_shared_food_station_jabbas_roasting_spit, "object/tangible/tcg/series5/shared_food_station_jabbas_roasting_spit.iff")
 
+--AT-AT Blueprint
+object_tangible_tcg_series5_shared_combine_object_at_at_blueprint = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series5/shared_combine_object_at_at_blueprint.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series5_shared_combine_object_at_at_blueprint, "object/tangible/tcg/series5/shared_combine_object_at_at_blueprint.iff")
+
+--Death Star Hologram
+object_tangible_tcg_series5_shared_decorative_deathstar_hologram = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series5/shared_decorative_deathstar_hologram.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series5_shared_decorative_deathstar_hologram, "object/tangible/tcg/series5/shared_decorative_deathstar_hologram.iff")

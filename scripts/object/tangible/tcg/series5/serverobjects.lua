@@ -52,4 +52,5 @@ includeFile("tangible/tcg/series5/decorative_lcd_screen.lua")
 includeFile("tangible/tcg/series5/decorative_theater_poster.lua")
 includeFile("tangible/tcg/series5/furniture_tie_fighter_chair.lua")
 includeFile("tangible/tcg/series5/food_station_jabbas_roasting_spit.lua")
-
+includeFile("tangible/tcg/series5/combine_object_at_at_blueprint.lua")
+includeFile("tangible/tcg/series5/decorative_deathstar_hologram.lua")

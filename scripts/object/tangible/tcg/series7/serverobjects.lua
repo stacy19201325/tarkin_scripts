@@ -49,3 +49,4 @@
 includeFile("tangible/tcg/series7/decorative_atst_chair.lua")
 includeFile("tangible/tcg/series7/painting_commando.lua")
 includeFile("tangible/tcg/series7/painting_lando_poster.lua")
+includeFile("tangible/tcg/series7/combine_object_gunship_blueprint.lua")

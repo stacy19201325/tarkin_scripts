@@ -76,3 +76,24 @@ clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_tatooine
 
 }
 ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_tatooine_travel_advertisement, "object/tangible/tcg/series4/shared_decorative_tatooine_travel_advertisement.iff")
+
+--Droid Oil Bath
+object_tangible_tcg_series4_shared_decorative_droid_oil_bath = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_droid_oil_bath.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_droid_oil_bath, "object/tangible/tcg/series4/shared_decorative_droid_oil_bath.iff")
+
+--Medical Table
+object_tangible_tcg_series4_shared_decorative_medical_table_01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series4/shared_decorative_medical_table_01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_decorative_medical_table_01, "object/tangible/tcg/series4/shared_decorative_medical_table_01.iff")
+
+--Video Game Table
+object_tangible_tcg_series4_shared_video_game_table = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series4/shared_video_game_table.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series4_shared_video_game_table, "object/tangible/tcg/series4/shared_video_game_table.iff")

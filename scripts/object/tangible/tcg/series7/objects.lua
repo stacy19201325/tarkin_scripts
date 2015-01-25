@@ -62,3 +62,10 @@ clientTemplateFileName = "object/tangible/tcg/series7/shared_painting_lando_post
 
 }
 ObjectTemplates:addClientTemplate(object_tangible_tcg_series7_shared_painting_lando_poster, "object/tangible/tcg/series7/shared_painting_lando_poster.iff")
+
+--Gunship Blueprint
+object_tangible_tcg_series7_shared_combine_object_gunship_blueprint = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/tcg/series7/shared_combine_object_gunship_blueprint.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_tcg_series7_shared_combine_object_gunship_blueprint, "object/tangible/tcg/series7/shared_combine_object_gunship_blueprint.iff")

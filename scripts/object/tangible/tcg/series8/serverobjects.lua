@@ -45,4 +45,7 @@
 --Children folder includes
 
 -- Server Objects
-
+includeFile("tangible/tcg/series8/combine_decorative_torture_table.lua")
+includeFile("tangible/tcg/series8/painting_tcg8_victory.lua")
+includeFile("tangible/tcg/series8/painting_tcg8_vintage.lua")
+includeFile("tangible/tcg/series8/painting_tcg8_yoda.lua")
