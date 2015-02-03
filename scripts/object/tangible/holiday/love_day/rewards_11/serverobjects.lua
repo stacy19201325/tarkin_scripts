@@ -43,7 +43,7 @@
 
 
 --Children folder includes
-includeFile("tangible/loot/creature_loot/kashyyyk_loot/serverobjects.lua")
-includeFile("tangible/loot/creature_loot/collections/serverobjects.lua")
 
 -- Server Objects
+--Tarkin Decorations Update
+includeFile("tangible/holiday/love_day/rewards_11/love_day_2011_painting.lua")

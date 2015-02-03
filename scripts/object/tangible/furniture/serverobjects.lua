@@ -59,6 +59,9 @@ includeFile("tangible/furniture/tatooine/serverobjects.lua")
 includeFile("tangible/furniture/technical/serverobjects.lua")
 includeFile("tangible/furniture/ep3_rewards/serverobjects.lua")
 
+--Tarkin Decorations Update
+includeFile("tangible/furniture/lifeday/serverobjects.lua")
+
 -- Server Objects
 includeFile("tangible/furniture/furniture_base.lua")
 includeFile("tangible/furniture/furniture_tatooine_cantina_seat_01.lua")

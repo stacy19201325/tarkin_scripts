@@ -43,7 +43,15 @@
 
 
 --Children folder includes
-includeFile("tangible/loot/creature_loot/kashyyyk_loot/serverobjects.lua")
-includeFile("tangible/loot/creature_loot/collections/serverobjects.lua")
 
 -- Server Objects
+--Tarkin Decorations Update
+includeFile("tangible/holiday/empire_day/imperial_recruitment_poster.lua")
+includeFile("tangible/holiday/empire_day/imperial_recruitment_poster_defaced.lua")
+includeFile("tangible/holiday/empire_day/rebel_resistance_poster.lua")
+includeFile("tangible/holiday/empire_day/mara_jade_poster.lua")
+includeFile("tangible/holiday/empire_day/painting_empire_day_2010_imperial.lua")
+includeFile("tangible/holiday/empire_day/painting_empire_day_2010_rebel.lua")
+includeFile("tangible/holiday/empire_day/wedge_antilles_poster.lua")
+includeFile("tangible/holiday/empire_day/painting_empire_day_2011_imperial.lua")
+includeFile("tangible/holiday/empire_day/painting_empire_day_2011_rebel.lua")

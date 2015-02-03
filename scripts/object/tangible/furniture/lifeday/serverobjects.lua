@@ -43,7 +43,20 @@
 
 
 --Children folder includes
-includeFile("tangible/loot/creature_loot/kashyyyk_loot/serverobjects.lua")
-includeFile("tangible/loot/creature_loot/collections/serverobjects.lua")
 
 -- Server Objects
+--Tarkin Decorations Update
+includeFile("tangible/furniture/lifeday/lifeday_incense_burner.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_s03.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_s05.lua")
+includeFile("tangible/furniture/lifeday/lifeday_banner_s01.lua")
+includeFile("tangible/furniture/lifeday/lifeday_banner_s02.lua")
+includeFile("tangible/furniture/lifeday/lifeday_banner_s03.lua")
+includeFile("tangible/furniture/lifeday/lifeday_proton_chair.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_2010_s01.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_2010_s02.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_2010_s03.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_2010_s04.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_s01.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_s02.lua")
+includeFile("tangible/furniture/lifeday/lifeday_painting_s04.lua")
