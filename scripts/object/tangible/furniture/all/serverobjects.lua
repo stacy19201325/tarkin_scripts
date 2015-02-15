@@ -167,3 +167,11 @@ includeFile("tangible/furniture/all/frn_bench_generic.lua")
 
 --Tarkin Decorations Update
 includeFile("tangible/furniture/all/frn_all_rug_bantha_skin.lua")
+includeFile("tangible/furniture/all/frn_diner_table.lua")
+includeFile("tangible/furniture/all/frn_diner_stool.lua")
+includeFile("tangible/furniture/all/frn_diner_counter_corner_s02.lua")
+includeFile("tangible/furniture/all/frn_diner_counter_corner.lua")
+includeFile("tangible/furniture/all/frn_diner_counter_center.lua")
+includeFile("tangible/furniture/all/frn_diner_booth.lua")
+includeFile("tangible/furniture/all/frn_diner_bar.lua")
+includeFile("tangible/furniture/all/outbreak_science_desk.lua")

@@ -7070,3 +7070,60 @@ object_tangible_furniture_all_shared_frn_all_rug_bantha_skin = SharedTangibleObj
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_all_rug_bantha_skin, "object/tangible/furniture/all/shared_frn_all_rug_bantha_skin.iff")
+
+--Diner Table
+object_tangible_furniture_all_shared_frn_diner_table = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_frn_diner_table.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_diner_table, "object/tangible/furniture/all/shared_frn_diner_table.iff")
+
+--Diner Stool
+object_tangible_furniture_all_shared_frn_diner_stool = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_frn_diner_stool.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_diner_stool, "object/tangible/furniture/all/shared_frn_diner_stool.iff")
+
+--Diner Counter Corner 02
+object_tangible_furniture_all_shared_frn_diner_counter_corner_s02 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_frn_diner_counter_corner_s02.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_diner_counter_corner_s02, "object/tangible/furniture/all/shared_frn_diner_counter_corner_s02.iff")
+
+--Diner Counter Corner
+object_tangible_furniture_all_shared_frn_diner_counter_corner = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_frn_diner_counter_corner.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_diner_counter_corner, "object/tangible/furniture/all/shared_frn_diner_counter_corner.iff")
+
+--Diner Counter Center
+object_tangible_furniture_all_shared_frn_diner_counter_center = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_frn_diner_counter_center.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_diner_counter_center, "object/tangible/furniture/all/shared_frn_diner_counter_center.iff")
+
+--Diner Booth
+object_tangible_furniture_all_shared_frn_diner_booth = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_frn_diner_booth.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_diner_booth, "object/tangible/furniture/all/shared_frn_diner_booth.iff")
+
+--Diner Bar
+object_tangible_furniture_all_shared_frn_diner_bar = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_frn_diner_bar.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_frn_diner_bar, "object/tangible/furniture/all/shared_frn_diner_bar.iff")
+
+--Science Desk
+object_tangible_furniture_all_shared_outbreak_science_desk = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/furniture/all/shared_outbreak_science_desk.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_furniture_all_shared_outbreak_science_desk, "object/tangible/furniture/all/shared_outbreak_science_desk.iff")
+

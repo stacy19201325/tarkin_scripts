@@ -104,3 +104,4 @@ clientTemplateFileName = "object/tangible/holiday/empire_day/shared_painting_emp
 
 }
 ObjectTemplates:addClientTemplate(object_tangible_holiday_empire_day_shared_painting_empire_day_2011_rebel, "object/tangible/holiday/empire_day/shared_painting_empire_day_2011_rebel.iff")
+

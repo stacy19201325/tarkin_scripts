@@ -4760,3 +4760,96 @@ object_tangible_painting_shared_painting_zabrak_m = SharedTangibleObjectTemplate
 }
 
 ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_zabrak_m, "object/tangible/painting/shared_painting_zabrak_m.iff")
+
+--Tarkin Decorations Update
+
+--Imperial PvP Reward Painting
+object_tangible_painting_shared_painting_pvp_reward_imperial = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_pvp_reward_imperial.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_pvp_reward_imperial, "object/tangible/painting/shared_painting_pvp_reward_imperial.iff")
+
+--Rebel PvP Reward Painting
+object_tangible_painting_shared_painting_pvp_reward_rebel = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_pvp_reward_rebel.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_pvp_reward_rebel, "object/tangible/painting/shared_painting_pvp_reward_rebel.iff")
+
+--CHP5 Painting
+object_tangible_painting_shared_painting_chp5 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_chp5.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_chp5, "object/tangible/painting/shared_painting_chp5.iff")
+
+--Imperial House Cleanup Painting
+object_tangible_painting_shared_painting_house_cleanup_imperial = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_house_cleanup_imperial.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_house_cleanup_imperial, "object/tangible/painting/shared_painting_house_cleanup_imperial.iff")
+
+--Rebel House Cleanup Painting
+object_tangible_painting_shared_painting_house_cleanup_rebel = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_house_cleanup_rebel.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_house_cleanup_rebel, "object/tangible/painting/shared_painting_house_cleanup_rebel.iff")
+
+--Ultra-Rare Heroic Exar Kun Painting
+object_tangible_painting_shared_painting_heroic_exar_kun_ultra_rare = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_heroic_exar_kun_ultra_rare.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_heroic_exar_kun_ultra_rare, "object/tangible/painting/shared_painting_heroic_exar_kun_ultra_rare.iff")
+
+--Heroic Exar Kun Painting
+object_tangible_painting_shared_painting_loot_heroic_exar_kun = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_loot_heroic_exar_kun.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_loot_heroic_exar_kun, "object/tangible/painting/shared_painting_loot_heroic_exar_kun.iff")
+
+--Biohazard Outbreak Painting 02
+object_tangible_painting_shared_painting_outbreak_biohazard_02 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_outbreak_biohazard_02.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_outbreak_biohazard_02, "object/tangible/painting/shared_painting_outbreak_biohazard_02.iff")
+
+--Corellia Painting 01
+object_tangible_painting_shared_painting_corl_01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_corl_01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_corl_01, "object/tangible/painting/shared_painting_corl_01.iff")
+
+--Corellia Painting 02
+object_tangible_painting_shared_painting_corl_02 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_corl_02.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_corl_02, "object/tangible/painting/shared_painting_corl_02.iff")
+
+--Biohazard Outbreak Painting 01
+object_tangible_painting_shared_painting_outbreak_biohazard_01 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_outbreak_biohazard_01.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_outbreak_biohazard_01, "object/tangible/painting/shared_painting_outbreak_biohazard_01.iff")
+
+--Biohazard Outbreak Painting 03
+object_tangible_painting_shared_painting_outbreak_biohazard_03 = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_outbreak_biohazard_03.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_outbreak_biohazard_03, "object/tangible/painting/shared_painting_outbreak_biohazard_03.iff")
+
+--WOD Outcast Painting
+object_tangible_painting_shared_painting_wod_outcast = SharedTangibleObjectTemplate:new {
+clientTemplateFileName = "object/tangible/painting/shared_painting_wod_outcast.iff"
+
+}
+ObjectTemplates:addClientTemplate(object_tangible_painting_shared_painting_wod_outcast, "object/tangible/painting/shared_painting_wod_outcast.iff")

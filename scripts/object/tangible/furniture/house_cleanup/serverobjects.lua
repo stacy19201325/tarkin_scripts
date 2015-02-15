@@ -41,10 +41,11 @@
 --this exception also makes it possible to release a modified version 
 
 
-
 --Children folder includes
 
 -- Server Objects
+
+--Tarkin Decorations Update
 includeFile("tangible/furniture/house_cleanup/emperor_chair.lua")
 includeFile("tangible/furniture/house_cleanup/xeno_couch.lua")
 includeFile("tangible/furniture/house_cleanup/xeno_desk.lua")
@@ -52,3 +53,5 @@ includeFile("tangible/furniture/house_cleanup/xeno_desk_lamp.lua")
 includeFile("tangible/furniture/house_cleanup/xeno_rug.lua")
 includeFile("tangible/furniture/house_cleanup/xeno_table.lua")
 includeFile("tangible/furniture/house_cleanup/xeno_throne.lua")
+includeFile("tangible/furniture/house_cleanup/emperor_desk.lua")
+includeFile("tangible/furniture/house_cleanup/emperor_lamp.lua")

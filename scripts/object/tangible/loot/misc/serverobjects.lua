@@ -116,3 +116,6 @@ includeFile("tangible/loot/misc/ticket_collectors_item_s01.lua")
 includeFile("tangible/loot/misc/ticket_expired.lua")
 includeFile("tangible/loot/misc/toxic_rations.lua")
 includeFile("tangible/loot/misc/worklight.lua")
+
+--Tarkin Decorations Update
+includeFile("tangible/loot/misc/heroic_exar_kun_torture_table.lua")

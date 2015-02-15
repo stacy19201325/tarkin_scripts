@@ -125,5 +125,6 @@ includeFile("tangible/weather_object/serverobjects.lua")
 includeFile("tangible/collection/serverobjects.lua")
 includeFile("tangible/holiday/serverobjects.lua")
 includeFile("tangible/tcg/serverobjects.lua")
+includeFile("tangible/storyteller/serverobjects.lua")
 
 -- Server Objects

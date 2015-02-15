@@ -61,6 +61,8 @@ includeFile("tangible/furniture/ep3_rewards/serverobjects.lua")
 
 --Tarkin Decorations Update
 includeFile("tangible/furniture/lifeday/serverobjects.lua")
+includeFile("tangible/furniture/nym_themepark/serverobjects.lua")
+includeFile("tangible/furniture/gcw/serverobjects.lua")
 
 -- Server Objects
 includeFile("tangible/furniture/furniture_base.lua")
